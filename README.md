@@ -1,6 +1,6 @@
 # Text-Mining---Topic-Modeling
 ## Background
-Amazon receives huge amount of reviews on various Brands and products it sells, and it needs sophisticated machine learning techniques to understand customer feedback which is usually in the form of unstructured text data. For understanding customer concerns and to be able to do it accurately with least manual intervention, its necessary to employ machines to understand data and make sense of it. We want to employ techniques like Topic Modeling, Sentiment analysis and various machine learning algorithms for user rating predictions to make sense of these large unstructured datasets.
+Amazon receives huge amount of reviews on various Brands and products it sells, and it needs sophisticated machine learning techniques to understand customer feedback which is usually in the form of unstructured text data. For understanding customer concerns and to be able to do it accurately with least manual intervention, its necessary to employ machines to understand data and make sense of it. In this study I am trying to employ techniques like Topic Modeling, Sentiment analysis and various machine learning algorithms for user rating predictions to make sense of these large unstructured datasets.
 ### Goal 
 
 In this study, I will be exploring over 68k customer reviews of over 720 mobile phones posted on Amazon.
